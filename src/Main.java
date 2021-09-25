@@ -16,6 +16,7 @@ public class Main {
         /*  zad.2 zadeklarować 2 zmienne typu int i wykonać na nich obliczenia arytmetyczn (+, -, *, /, %)
         *   wynik wyświetlić w konsoli programu
         */
+        System.out.println("Hello");
 
     }
 }
