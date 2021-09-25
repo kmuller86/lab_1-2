@@ -8,6 +8,11 @@ public class Main {
 
         /* zad1. stworzyć tablicę typu double 5-cio elementową,
         przypisać do niej wartości i wyświetlić */
+        double[] tab1 = {2, 1, 3, 7, 8};
+
+        for (int i = 0; i < tab1.length; i++) {
+            System.out.print(tab1[i] + " ");
+        }
 
     }
 }
