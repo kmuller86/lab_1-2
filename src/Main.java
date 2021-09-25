@@ -11,7 +11,8 @@ public class Main {
         double[] tab1 = {2, 1, 3, 7, 8};
 
         for (int i = 0; i < tab1.length; i++) {
-            System.out.print(tab1[i] + " ");
+            System.out.println(tab1[i]);
+
         }
 
     }
