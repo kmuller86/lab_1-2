@@ -21,7 +21,7 @@ public class Main {
 
 
         /* zad.2 użyj parametru trójargumentowego aby sprawdzić parzystośc nr. indeksu */
-
+        /* Nie użył pan konstrukcji a ? b : c; - parametr trójargumentowy
         int indeks = 58178;
 
         if(indeks % 2 == 0){
@@ -38,7 +38,7 @@ public class Main {
 
         System.out.print("Podaj Liczbe: ");
         double liczba = scanliczba.nextDouble();
-
+         /* Miał pan użyc else if() {} */
         if(liczba > 3.14){
             System.out.println("Liczba > pi");
         }
